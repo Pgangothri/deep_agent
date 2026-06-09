@@ -10,6 +10,7 @@ dependencies = [
     "langchain",
     "langchain-google-genai",
     "langchain-groq",
+    "langchain-quickjs>=0.1.4",
     "python-dotenv>=1.2.2",
     "tavily-python",
 ]
